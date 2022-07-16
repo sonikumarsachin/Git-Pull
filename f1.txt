@@ -2,3 +2,4 @@ f1.txt is created
 doing it for fast forward merge
 now doing for 3 way merge
 3 way in a direct way
+done bro
