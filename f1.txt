@@ -1,1 +1,2 @@
 f1.txt is created
+doing it for fast forward merge
